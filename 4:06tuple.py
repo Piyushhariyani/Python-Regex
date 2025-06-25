@@ -71,7 +71,7 @@ print()
 num=int(input("Enter a range"))
 a=0
 b=1
-print(a,b,end=' ')
+print(a,b,end='  ')
 for i in range(2,num):
     c=a+b
     print(c,end=' ')
